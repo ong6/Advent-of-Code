@@ -35,3 +35,7 @@ lengthOfLongestSubstring(input6)
 
 
 # %%
+print(5%0)
+# %%
+[i for i in range(5)]
+# %%
