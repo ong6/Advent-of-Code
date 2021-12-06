@@ -39,3 +39,5 @@ print(5%0)
 # %%
 [i for i in range(5)]
 # %%
+[i for _ in range(9,7)]
+# %%
